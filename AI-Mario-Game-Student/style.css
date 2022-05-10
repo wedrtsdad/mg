@@ -1,0 +1,44 @@
+body{
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+#hq{
+    text-align: left;
+    width: 100%;
+    font-size: x-large;
+}
+
+#hk{
+    float: right;
+    margin-top: -30px;
+}
+
+.abc{
+    height:70px;
+}
+
+#b1{
+    height: 60px;
+    width: 150px;
+    font-size: x-large;
+}
+#b2{
+    height: 50px;
+    width: 140px;
+    font-size: large;
+}
+
+h4{
+    background-color: #85a1ff;
+    margin: -1;
+    bottom: 0;
+    text-align: center;
+}
+
+video{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    border-radius: 155px;
+}
